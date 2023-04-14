@@ -8,3 +8,5 @@ justify-content: space-evenly: para dar espaço equivalente entre os elemnetos,o
 } para não mostrar o hamburger (esconder)
  display: inline: para aparecer
  imagem de background,puxar no css.
+ logos tem que ser PNG...
+ padding-top: tirar a margem "preta de cima e dar espaço da cor do background
