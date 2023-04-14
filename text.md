@@ -11,3 +11,10 @@ justify-content: space-evenly: para dar espaço equivalente entre os elemnetos,o
  logos tem que ser PNG...
  padding-top: tirar a margem "preta de cima e dar espaço da cor do background
  background-size: cover: serve para amppliar a imagem de fundo; (se pegar uma imagem muito pequena, ela vai ampliar,para não repetir a imagem)
+quando quiser mudar a cor de alguma coisa no index,escrever: style="backroud-color"
+container ajusta o site
+container normal:ñ ocupa 100% da tela por conta da responsividade
+container-fluid: ocupa tudo
+col-numero: determina o tamanho da rol
+offset-numero(tamanho da row), deixa em branco e passa o row pro lado
+col-12 col-md-6: quando a tela for grande ele fica um do lado do outro (col-6 e col-6), quando diminui fica um embaixo do outro (col-12 e col-12)
