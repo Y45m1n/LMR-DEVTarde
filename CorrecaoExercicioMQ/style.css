@@ -20,22 +20,23 @@ header nav{
 }
 .link{
     text-decoration: none;
-    color: black;
+    color: green;
     text-transform: uppercase;
 }
 .hamburger{
     display:none;
 }
 .banner{
-    background-image: url(img/fundo.png);
-    height: 768px;
-    background-repeat: no-repeat;
+    background-image: url(img/backgroundspotify1.png);
+    margin: 0;
+    width: 100%;
+    height: 70vh;
     background-size: cover;
 }
 .container{
     display:flex;
     align-items: flex-end;
-    height: 90%;
+    height: 80%;
     width:60%;
 }
 .container-texto{
@@ -44,6 +45,7 @@ header nav{
     flex-direction: column;
     justify-content:center;
     text-align:center;
+    padding-left: 20px;
     
 }
 .container-texto h1{
@@ -53,18 +55,18 @@ header nav{
 .container-texto h3{
     color:white;
     font-size: 40px;
-    padding-left: 30px;
+   
 }
 .container2{
     background-color: white;
     padding-top:40px;
-    padding-bottom:40px;
+    padding-bottom:50px;
 }
 .titulo2 h2{
     color:green;
-    font-size: 50px;
-    font-weight: 500;
-    padding-left:40px;
+    font-size: 30px;
+    font-weight: 100;
+    padding-left:50px;
 }
 .conteudo2{
     display:flex;
@@ -78,6 +80,9 @@ header nav{
     color:green;
     font-weight: 50;
     
+}
+.texto2 h3{
+    font-size:50px ;
 }
 .texto2 p{
     font-size:45px;
@@ -103,6 +108,9 @@ header nav{
         flex-direction: column;
         height: 430px;
         justify-content: space-between;
+    }
+    .texto2 p{
+        font-size: 40px;
     }
 
 }
