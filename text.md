@@ -19,4 +19,5 @@
 19-bootstrap é um framework responsivo
 20-framework é uma ferramenta, conjunto de solução completa dos problemas, tipo uma base que vc pega e usa. framework é um 21-conjunto de bibliotecas,  consegue desenvolver um site inteiro só com um framework
 22-pegar link do include in CDN 1º colocar no link css, o segundo link colocar depois do body, antes do html
+23- se colocar os cards dentro de uma col,mas na mesma row, os cards ficam 
 
